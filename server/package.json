@@ -1,16 +1,16 @@
 {
-	"name": "studynotion-backend",
+	"name": "eduplus-backend",
 	"version": "1.0.0",
-	"description": "studynotion-backend",
+	"description": "eduplus-backend",
 	"main": "index.js",
 	"scripts": {
 		"start": "node index.js",
 		"dev": "nodemon index.js"
 	},
 	"keywords": [
-		"studynotion-backend"
+		"eduplus-backend"
 	],
-	"author": "Saikat Mukherjee",
+	"author": "Manshu Khajuria",
 	"license": "ISC",
 	"dependencies": {
 		"bcrypt": "^5.1.0",
